@@ -4,7 +4,7 @@ metadata:
   name: azure-vote-back
   namespace: voting-app
 spec:
-  replicas: 3
+  replicas: 1
   template:
     metadata:
       labels:
